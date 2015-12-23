@@ -1,0 +1,70 @@
+body{
+	padding-top: 70px;
+}
+.navbar{
+	min-height: 70px;
+}
+.navbar-brand{
+	height: 70px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+.navbar-custom{
+	background: #444;
+}
+.navbar-nav > li > a{
+	padding-top: 20px;
+	padding-bottom: 20;
+	line-height: 30px;
+}
+.jumbotron{
+	background: transparent;
+}
+
+.blue-color{
+	background-color: blue;
+}
+.ciano-color{
+	background-color: ciano;
+}
+.dropdown-menu{
+	padding: 15px;
+	background: #444;
+	color: #fff;
+}
+ul.nav > li > a{
+	color: #fff;
+}
+ul.nav > li >a:hover{
+	background: #444;
+	border-color: 1px solid #444;
+}
+/* test index.html*/
+#bg{
+	background-image: url("../img/html-code.jpg");
+}
+p.lead{
+	color: #000;
+}
+h1.text-center{
+	color: #fff;
+}
+.navbar-static-bottom{
+	bottom: 0;
+	margin-bottom: 0;
+	position: static;
+}
+ul.nav > li > a{
+	color: #eee;
+}
+ul.nav > li > a:hover{
+	background: #444;
+}
+p.text-center{
+	color: #eee;
+}
+div.col-lg-4{
+	margin-bottom: 10px;
+}
+/* end test*/
